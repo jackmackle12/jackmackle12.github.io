@@ -6,22 +6,19 @@ body {
 
 .header {
   margin-bottom: -40px;
-  float: center;
-  text-align: center;
+  padding: 0px 30px;
   color: rgb(255, 255, 255);
   font-size: 30px;
   font-family: 'Manrope', sans-serif;
 }
 
 .nav {
-  text-align: center;
+  padding: 0px 30px;
 }
 
 .nav a {
   margin: 0px;
-  float: center;
   color: #ffffff;
-  text-align: center;
   padding: 1px 5px;
   text-decoration: none;
   font-size: 17px;
