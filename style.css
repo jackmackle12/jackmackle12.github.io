@@ -4,7 +4,7 @@ body {
   background: rgb(0, 1, 37)
 }
 
-.header {
+.main-header {
   margin-bottom: -40px;
   padding: 0px 30px;
   color: rgb(255, 255, 255);
@@ -14,6 +14,7 @@ body {
 
 .nav {
   padding: 0px 30px;
+  list-style-type: none;
 }
 
 .nav a {
@@ -29,15 +30,32 @@ body {
   color: rgb(255, 134, 134);
 }
 
-.p1 {
+.about-sum {
   color: #ffffff;
   font-family: 'Manrope', sans-serif;
   padding: 15px 30px;
+  font-size: 17px;
 }
 
-.h1 {
+.sub-header {
   color: #ffffff;
   font-family: 'Manrope', sans-serif;
-  padding: 15px 30px;
-  font-size: 24px;
+  padding: 0px 30px;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.experience-sub-header {
+  color: #ffffff;
+  font-family: 'Manrope', sans-serif;
+  padding: 0px 30px;
+  font-size: 17px;
+}
+
+.p {
+  color: #ffffff;
+  font-family: 'Manrope', sans-serif;
+  padding: 0px 30px;
+  font-size: 14px;
+  margin-bottom: 40px;
 }
