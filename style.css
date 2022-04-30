@@ -33,14 +33,14 @@ body {
 .about-sum {
   color: #ffffff;
   font-family: 'Manrope', sans-serif;
-  padding: 15px 30px;
+  padding: 15px 35px;
   font-size: 17px;
 }
 
 .sub-header {
   color: #ffffff;
   font-family: 'Manrope', sans-serif;
-  padding: 0px 30px;
+  padding: 0px 35px;
   font-size: 26px;
   font-weight: bold;
 }
@@ -48,14 +48,66 @@ body {
 .experience-sub-header {
   color: #ffffff;
   font-family: 'Manrope', sans-serif;
-  padding: 0px 30px;
+  padding: 0px 35px;
   font-size: 17px;
 }
 
 .p {
   color: #ffffff;
   font-family: 'Manrope', sans-serif;
-  padding: 0px 30px;
+  padding: 0px 35px;
   font-size: 14px;
   margin-bottom: 40px;
+  width: 50%;
+}
+
+.blog-date {
+  color: #ffffff;
+  font-family: 'Manrope', sans-serif;
+  padding: 0px 35px;
+  font-size: 14px;
+}
+
+.blog-link {
+  padding: 20px 0px;
+  list-style-type: none;
+}
+
+.blog-link a {
+  margin: 0px;
+  color: #ffffff;
+  padding: 1px 5px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: 'Manrope', sans-serif;
+}
+
+.blog-link a:hover {
+  color: rgb(255, 134, 134);
+}
+
+a span {
+    display: inline-block;
+}
+
+.p a {
+  margin: 0px;
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 14px;
+  font-family: 'Manrope', sans-serif;
+}
+
+.p a:hover {
+  color: rgb(255, 134, 134);
+}
+
+.bullets {
+  color: #ffffff;
+  font-family: 'Manrope', sans-serif;
+  padding: 0px 55px;
+  font-size: 14px;
+  margin-bottom: 0px;
+  margin-top: -30px;
+  width: 50%;
 }
